@@ -18,7 +18,6 @@ Sales Data: The primary dataset used for this analysis is the â€œsuperstore.csvâ
 
 ### Tools Used
 - Excel: Data cleaning and preparation
-   - [Download here](https://microsoft.com)
 - SQL: Querying and answering analytical questions
 - Power BI: Creating interactive visualizations for insights.
 
